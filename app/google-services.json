@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441524144437",
+    "project_id": "chat-application-backend-7376a",
+    "storage_bucket": "chat-application-backend-7376a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441524144437:android:1e047233f7202b9877247c",
+        "android_client_info": {
+          "package_name": "com.abdul_wahid.chatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcINPdiksPa8vJ3lweChW1HKW7nnM7zrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
